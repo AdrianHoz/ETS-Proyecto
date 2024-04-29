@@ -66,7 +66,8 @@ internal class Program
         }
     }
 
-    // Métodos para realizar operaciones matemáticas
+    // HECHO POR ABDUL
+
     public static int sumar(int a, int b)
     {
         return a + b;
