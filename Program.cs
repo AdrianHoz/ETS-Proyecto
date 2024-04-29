@@ -9,6 +9,7 @@ internal class Program
 
     public static void menu()
     {
+        //Hecho por adrian
         try
         {
             Console.WriteLine("Seleccione la operación a realizar:");
