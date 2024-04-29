@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 internal class Program
 {
@@ -66,7 +66,7 @@ internal class Program
         }
     }
 
-    // HECHO POR ABDUL
+    // HECHO POR ABDUL MEJORADO
 
     public static int sumar(int a, int b)
     {
